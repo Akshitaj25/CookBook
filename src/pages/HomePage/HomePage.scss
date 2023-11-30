@@ -1,0 +1,55 @@
+@import "../../App.scss";
+.a {
+    display: flex;
+    height: 100%;
+  
+    .category-barr {
+      flex-grow: 1;
+      max-height: 200vh; 
+      overflow-y: auto; /* Add vertical scrollbar if needed */
+      
+      /* Hide scrollbar for Chrome, Safari, and Edge */
+      &::-webkit-scrollbar {
+        width: 0px;
+      }
+    }
+  
+    .weather-recipe {
+      flex-grow: 1;
+      max-height: 200vh; /* Set a maximum height */
+      overflow-y: auto; /* Add vertical scrollbar if needed */
+      
+      /* Hide scrollbar for Chrome, Safari, and Edge */
+      &::-webkit-scrollbar {
+        width: 0px;
+      }
+    }
+  }
+.category-barr{
+    margin-top: 12px !important;
+    border-radius: 23px !important;
+    // margin-left: 2px;
+}  
+.category-bar{
+    max-width: 19.5%;
+    left:0 !important;
+    border-radius: 23px;
+    margin-left: 7px;
+    // max-height: 200px;
+}
+.weather-recipe{
+    max-width: 79% !important;
+    min-width: 79% !important;
+    margin-right: 4px !important;
+    // padding-right: 2px;
+    right: 3px !important ;
+    position: absolute !important;
+    border-radius: 23px !important;
+    margin: 12px auto;
+    box-shadow: rgba(149, 157, 165, 0.1) 0px 8px 24px;
+    border-radius: 3px;
+    box-shadow: rgba(99, 99, 99, 0.09) 0px 2px 8px 0px;
+    background-color: $clr-white;
+    transition: $transition;
+    // min-height: 900px;
+}

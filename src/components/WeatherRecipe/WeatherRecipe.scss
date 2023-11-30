@@ -1,0 +1,123 @@
+@import "../../App.scss";
+
+.section-wrap {
+    margin: 0;
+    // margin-left: 10px;
+    // margin-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 3px;
+    padding-right: 10px;
+    padding-left:13px;
+    // background-color: #c9ada7ce;
+    border-radius: 20px;
+  
+    .wr-title{
+        text-transform: uppercase;
+        margin-bottom: 5.8rem;
+        font-weight: bold;
+        letter-spacing: 4px;
+        position: relative;
+        font-size: 24px;
+        margin-left:13px;
+        position: relative;
+      
+        @media screen and (min-width: 420px){
+          font-size: 12px;
+        }
+        @media screen and (min-width: 760px){
+          font-size: 15px;
+        }
+        @media screen and (min-width: 830px){
+      
+          font-size: 18px;
+        }
+        @media screen and (min-width: 1000px){
+          font-size: 22px;
+        }
+        @media screen and (min-width: 1080px){
+          font-size: 24px;
+        }
+      
+        &::after{
+          content: "";
+          position: absolute;
+          top: 100%;
+          left: 0;
+          height: 4px;
+          width: 480px;
+          background-color: #9b8580;
+        }
+      }
+  
+    .recipe-container {
+      margin-bottom: 2rem;
+      padding: 1rem;
+    background-color: $clr-white;
+    //   border: 1px solid $clr-lightgray;
+      border-radius: 4px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+      h3 {
+        font-size: 16px;
+        text-transform: uppercase;
+        margin-bottom: 1rem;
+        color: $clr-orange;
+        font-weight: 900;
+      }
+  
+      .recipe-image {
+        width: 100%;
+        max-height: 300px;
+        object-fit: cover;
+        border-radius: 4px;
+        margin-bottom: 1rem;
+      }
+  
+      .recipe-details {
+        h4 {
+          font-size: 14px;
+          margin-bottom: 0.5rem;
+        }
+  
+        ul, ol {
+          margin-left: 1rem;
+          margin-bottom: 1rem;
+  
+          li {
+            font-size: 13px;
+            margin-bottom: 0.5rem;
+          }
+        }
+      }
+    }
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+  }
+  ul.gridd {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    background-color: $clr-orange;
+    padding: 1rem;
+    border-radius: 4px;
+  }
+
+  .li-dot{
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 1px 1px;
+    background-color: $clr-green;
+    color: $clr-white;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 12px;
+    margin-right: 8px;
+    border: 0.5px solid white;
+}
+  

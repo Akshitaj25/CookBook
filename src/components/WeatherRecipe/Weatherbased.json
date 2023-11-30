@@ -1,0 +1,298 @@
+{
+    "weather": {
+      "clear": [
+        {
+          "name": "Grilled Chicken Salad",
+          "picture": "https://media.istockphoto.com/id/1362900622/photo/healthy-grilled-chicken-saladtop-down-photo.jpg?s=612x612&w=0&k=20&c=xXJsmWFaTiCJqX8MLaP9IUENk48ADMaOTTIc7Nl-8hg=",
+          "ingredients": [
+            "Chicken breast",
+            "Mixed greens",
+            "Cherry tomatoes",
+            "Cucumber",
+            "Feta cheese",
+            "Balsamic vinaigrette"
+          ],
+          "steps": [
+            "Grill the chicken breast until fully cooked.",
+            "Combine mixed greens, cherry tomatoes, cucumber, and feta cheese in a bowl.",
+            "Slice the grilled chicken and place it on top of the salad.",
+            "Drizzle with balsamic vinaigrette and toss gently.",
+            "Serve and enjoy!"
+          ]
+        },
+        {
+          "name": "Fruit Smoothie",
+          "picture": "https://images.unsplash.com/photo-1505252585461-04db1eb84625?q=80&w=1416&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "ingredients": [
+            "Banana",
+            "Berries (strawberries, blueberries, raspberries)",
+            "Greek yogurt",
+            "Honey",
+            "Ice cubes"
+          ],
+          "steps": [
+            "Combine banana, berries, Greek yogurt, honey, and ice cubes in a blender.",
+            "Blend until smooth and creamy.",
+            "Pour into a glass and enjoy your refreshing fruit smoothie!"
+          ]
+        },
+        {
+          "name": "Caprese Sandwich",
+          "picture": "https://media.istockphoto.com/id/930271208/photo/healthy-grilled-basil-mozzarella-caprese-panini.webp?b=1&s=170667a&w=0&k=20&c=M7PxF2coEJ1wHHK8QwUHK6Jcjp7llTrI8QvvpKmPUyM=",
+          "ingredients": [
+            "Ciabatta bread",
+            "Tomato slices",
+            "Fresh mozzarella cheese",
+            "Basil leaves",
+            "Balsamic glaze",
+            "Olive oil"
+          ],
+          "steps": [
+            "Slice the ciabatta bread and lightly toast it.",
+            "Layer tomato slices, fresh mozzarella, and basil leaves on the bread.",
+            "Drizzle with balsamic glaze and olive oil.",
+            "Top with another slice of bread to make a sandwich.",
+            "Cut in half and enjoy your delicious Caprese sandwich!"
+          ]
+        }
+      ],
+      "haze": [
+        {
+          "name": "Oatmeal with Berries and Nuts",
+          "picture": "https://media.istockphoto.com/id/979149642/photo/oatmeal-porridge-with-fresh-berries-and-nuts-top-view.webp?b=1&s=170667a&w=0&k=20&c=gCU6IW3-TjKb1qriK_OIl9rlXOR_AEaM5Tf498-rhg8=",
+          "ingredients": [
+            "Rolled oats",
+            "Milk",
+            "Water",
+            "Berries (strawberries, blueberries, raspberries)",
+            "Nuts (almonds, walnuts, pecans)",
+            "Honey",
+            "Cinnamon"
+          ],
+          "steps": [
+            "Cook rolled oats in a pot with milk and water until softened.",
+            "Top with berries, nuts, honey, and cinnamon.",
+            "Enjoy a warm and comforting bowl of oatmeal!"
+          ]
+        },
+        {
+          "name": "Avocado Toast with Poached Egg",
+          "picture": "https://media.istockphoto.com/id/990301822/photo/healthy-avocado-and-egg-toasts-with-pumpkin-and-sesame-seeds-sprinkled-with-cress-salad.jpg?s=612x612&w=0&k=20&c=MLW0SK6jg09yTU1wZRYxuQNyw0MzKILQ_PIOpIXGpjM=",
+          "ingredients": [
+            "Sourdough bread",
+            "Avocado",
+            "Lemon juice",
+            "Salt and pepper",
+            "Eggs",
+            "White vinegar"
+          ],
+          "steps": [
+            "Toast sourdough bread until lightly golden.",
+            "Mash avocado with lemon juice, salt, and pepper.",
+            "Spread avocado mixture on toast.",
+            "Poach eggs in water with white vinegar.",
+            "Place poached eggs on top of avocado toast and season with salt and pepper."
+            ]
+        },
+        {
+          "name": "Smoothie Bowl with Acai Berries",
+          "picture": "https://media.istockphoto.com/id/1313246634/photo/superfood-smoothie-bowl-with-raspberry-banana-chia-seeds-coconut-and-granola.jpg?s=612x612&w=0&k=20&c=-hDG50Z47of87QNTpm980rPuMz3kMk9fyagMvd9wIss=",
+          "ingredients": [
+            "Acai berries",
+            "Frozen banana",
+            "Almond milk",
+            "Granola",
+            "Berries (strawberries, blueberries, raspberries)",
+            "Cocoa nibs"
+          ],
+          "steps": [
+            "Blend acai berries, frozen banana, and almond milk until smooth.",
+            "Pour into a bowl and top with granola, berries, and cocoa nibs.",
+            "Enjoy a refreshing and energizing smoothie bowl!"
+          ]
+        }
+      ],
+      "clouds": [
+        {
+          "name": "Creamy Tomato Soup",
+          "picture": "https://media.istockphoto.com/id/1407535533/photo/tomato-soup.webp?b=1&s=170667a&w=0&k=20&c=WMpIyKQd9J4eIi9JNG5jReprES7oFAhso2hI5plmDis=",
+          "ingredients": [
+            "Tomatoes",
+            "Onion",
+            "Garlic",
+            "Vegetable broth",
+            "Heavy cream",
+            "Basil",
+            "Croutons"
+          ],
+          "steps": [
+            "Sauté onions and garlic in a pot until softened.",
+            "Add tomatoes and cook until they break down.",
+            "Pour in vegetable broth and simmer.",
+            "Blend the soup until smooth, then stir in heavy cream.",
+            "Season with basil, salt, and pepper.",
+            "Serve with croutons on top."
+          ]
+        },
+        {
+          "name": "Pasta Carbonara",
+          "picture": "https://media.istockphoto.com/id/910704720/photo/traditional-italian-dish-spaghetti-carbonara-with-bacon-in-a-cream-sauce.webp?b=1&s=170667a&w=0&k=20&c=7S2o8ApMpDJPLwEVbm7t1nMWJEcUQ23-OReOrQ5iQFc=",
+          "ingredients": [
+            "Spaghetti",
+            "Bacon",
+            "Eggs",
+            "Parmesan cheese",
+            "Black pepper"
+          ],
+          "steps": [
+            "Cook spaghetti according to package instructions.",
+            "In a separate pan, cook bacon until crispy.",
+            "Whisk eggs and mix in grated Parmesan cheese.",
+            "Drain cooked pasta and mix with the egg and cheese mixture.",
+            "Add crispy bacon and season with black pepper.",
+            "Serve immediately."
+          ]
+        },
+        {
+          "name": "Stuffed Bell Peppers",
+          "picture": "https://media.istockphoto.com/id/464583605/photo/stuffed-pepper-with-meat.webp?b=1&s=170667a&w=0&k=20&c=MlfN302iOVX1iU6Y2ATkN2QMJg0Fg0GDs_RrTAWY_TI=",
+          "ingredients": [
+            "Bell peppers",
+            "Ground beef",
+            "Rice",
+            "Tomato sauce",
+            "Cheese",
+            "Onion",
+            "Garlic"
+          ],
+          "steps": [
+            "Cut bell peppers in half and remove seeds.",
+            "Cook ground beef with onion and garlic.",
+            "Mix in cooked rice and tomato sauce.",
+            "Stuff bell peppers with the mixture.",
+            "Top with cheese and bake until peppers are tender."
+          ]
+        }
+      ],
+      "rain": [
+        {
+          "name": "Chicken Noodle Soup",
+          "picture": "https://media.istockphoto.com/id/1427261812/photo/a-delicious-chicken-soup-with-carrots.webp?b=1&s=170667a&w=0&k=20&c=goyDQbqhb0xZ0zv-N5JSGbOnNWdMYycNHSzmt-N-dZI=",
+          "ingredients": [
+            "Chicken broth",
+            "Chicken breast",
+            "Carrots",
+            "Celery",
+            "Egg noodles",
+            "Onion",
+            "Garlic"
+          ],
+          "steps": [
+            "Bring chicken broth to a simmer.",
+            "Add chicken breast and cook until done.",
+            "Add chopped carrots, celery, onion, and garlic.",
+            "Cook egg noodles separately and add to the soup.",
+            "Season with salt and pepper.",
+            "Serve hot."
+          ]
+        },
+        {
+          "name": "Crispy Fried Chicken",
+          "picture": "https://media.istockphoto.com/id/477596753/photo/homemade-southern-fried-chicken.webp?b=1&s=170667a&w=0&k=20&c=nnwH5XBvXSJalyZeHZzXwK7NnGch9BrC_0oTffi9gIA=",
+          "ingredients": [
+            "Chicken pieces",
+            "Buttermilk",
+            "Flour",
+            "Paprika",
+            "Garlic powder",
+            "Salt",
+            "Pepper"
+          ],
+          "steps": [
+            "Marinate chicken pieces in buttermilk.",
+            "Mix flour, paprika, garlic powder, salt, and pepper in a bowl.",
+            "Coat each chicken piece in the flour mixture.",
+            "Deep fry until golden brown and crispy.",
+            "Serve hot and enjoy!"
+          ]
+        },
+        {
+          "name": "Vegetable Pakoras",
+          "picture": "https://media.istockphoto.com/id/1451363193/photo/indian-snack-pakora-with-sauce-on-wooden-background-with-copy-space.jpg?s=612x612&w=0&k=20&c=ck94hybsOfkL87qNWl3jX2y__MiXDh_-4HBXNRYdy28=",
+          "ingredients": [
+            "Chickpea flour",
+            "Vegetables (potatoes, onions, spinach, etc.)",
+            "Spices (cumin, coriander, chili powder)",
+            "Baking soda",
+            "Water"
+          ],
+          "steps": [
+            "Mix chickpea flour with spices and baking soda.",
+            "Add water to form a thick batter.",
+            "Dip sliced vegetables into the batter.",
+            "Deep fry until golden brown and crispy.",
+            "Serve with chutney."
+          ]
+        }
+      ],
+      "default": [
+        {
+          "name": "Anytime Pasta",
+          "picture": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D",
+          "ingredients": [
+            "Pasta",
+            "Tomato sauce",
+            "Ground beef",
+            "Onion",
+            "Garlic",
+            "Italian herbs",
+            "Parmesan cheese"
+          ],
+          "steps": [
+            "Cook pasta according to package instructions.",
+            "In a separate pan, cook ground beef with onion and garlic.",
+            "Add tomato sauce and Italian herbs.",
+            "Combine pasta with the meat sauce.",
+            "Top with Parmesan cheese and serve."
+          ]
+        },
+        {
+          "name": "Margarita Pizza",
+          "picture": "https://media.istockphoto.com/id/1263398956/photo/pizza-margarita-on-white-background.jpg?s=612x612&w=0&k=20&c=yVllx0qZVyDnEEgx_Og9Yvg4B27VW8FW1Rpi8O35OYc=",
+          "ingredients": [
+            "Pizza dough",
+            "Tomatoes",
+            "Fresh mozzarella",
+            "Basil",
+            "Olive oil",
+            "Salt"
+          ],
+          "steps": [
+            "Roll out pizza dough into a thin crust.",
+            "Top with sliced tomatoes and fresh mozzarella.",
+            "Bake until crust is golden and cheese is melted.",
+            "Sprinkle with fresh basil, drizzle with olive oil, and add a pinch of salt.",
+            "Slice and enjoy your Margarita Pizza!"
+          ]
+        },
+        {
+          "name": "Fruit Salad",
+          "picture": "https://media.istockphoto.com/id/1295036049/photo/fruit-salad-in-a-bowl-on-black-background.jpg?s=612x612&w=0&k=20&c=X3-NqxPrIKP6TTzr8Oy8xglBhPSavMydc2bS4b4ZPZk=",
+          "ingredients": [
+            "Mixed fruits (strawberries, kiwi, pineapple, grapes)",
+            "Honey",
+            "Lime juice",
+            "Mint leaves"
+          ],
+          "steps": [
+            "Wash and chop the mixed fruits.",
+            "Drizzle with honey and squeeze lime juice over the fruits.",
+            "Toss gently to combine.",
+            "Garnish with fresh mint leaves.",
+            "Serve and refresh yourself with a delightful fruit salad!"
+          ]
+        }
+      ]
+    }
+  }
+  

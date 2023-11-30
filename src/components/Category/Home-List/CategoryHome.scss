@@ -1,0 +1,65 @@
+@import "../../../App.scss";
+.sc-categoryy{
+    @media screen and (min-width: 420px){
+        grid-template-columns: repeat(1, 1fr);
+        column-gap: 24px;
+    }
+    @media screen and (min-width: 1080px){
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+
+    .category-itm{
+        background-color: $clr-white;
+        position: relative;
+        margin: 10px auto;
+        box-shadow: rgba(149, 157, 165, 0.1) 0px 8px 24px;
+        border-radius: 3px;
+        box-shadow: rgba(99, 99, 99, 0.09) 0px 2px 8px 0px;
+
+        &-img{
+            height: 150px;
+            position: relative;
+
+            img{
+                padding: 1px;
+                transition: $transition;
+            }
+
+            &:hover{
+                img{
+                    transform: scale(0.8);
+                }
+            }
+        }
+        &-title{
+            position: absolute;
+            top: 6px;
+            right: 6px;
+            padding: 1px 8px;
+            border-radius: 3px;
+            box-shadow: rgba(0, 0, 0, 0.14) 0px 3px 8px;
+            transition: $transition;
+        }
+
+        &:hover{
+            .category-itm-title{
+                opacity: 1;
+                border-radius: 2px;
+            }
+        }
+    }
+}
+
+.section-wrapp{
+    margin: 0;
+    // margin-left: 10px;
+    // margin-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 3px;
+    padding-right: 9px;
+    padding-left:9px;
+    // background-color: #c9ada7ce;
+    border-radius: 20px;
+  
+  }
